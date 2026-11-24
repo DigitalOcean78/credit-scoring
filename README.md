@@ -93,6 +93,7 @@ This project follows the structure and philosophy of my previous project, [hot-j
 
 ## Project Structure
 
+```text
 credit-scoring/
 ├── data/
 │   └── application_train.csv
@@ -101,6 +102,7 @@ credit-scoring/
 ├── requirements.txt
 ├── README.md
 └── README_RU.md
+```
 
 ## How to Run
 
