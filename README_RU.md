@@ -93,6 +93,7 @@
 
 ## Структура проекта
 
+```text
 credit-scoring/
 ├── data/
 │   └── application_train.csv
@@ -101,7 +102,7 @@ credit-scoring/
 ├── requirements.txt
 ├── README.md
 └── README_RU.md
-
+```
 ## Как запустить
 
 1. Склонируйте репозиторий.
